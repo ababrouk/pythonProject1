@@ -2,7 +2,7 @@ import snscrape.modules.twitter as sntwitter
 import pandas as pd
 import re
 from cleantext import clean
-import unidecode
+
 
 # Create list to add tweet data to
 tweets_list1 = []
